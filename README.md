@@ -1,5 +1,5 @@
-TOP SECRET
+If you've reached this page, you have decoded my message using my trusty whiskey bottle. 
 
-If you've reached this page, you have decoded my message. Within this case folder contains my mission logs of names of the Taliban
-and coordinates of where they reside.
+Within this journal contains my logs of trekking through the west trying to find the crew responsible for
+wanting the train to go through Rock Ridge.
 
