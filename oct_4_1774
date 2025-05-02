@@ -17,7 +17,7 @@ Strange sequence for casual play. Almost like Bart wanted me to see it. And I di
 The moves — in order — matched a pattern we used back in Cheyenne. A code. Simple binary.
 I translated it later that night, just before lights out. The final sequence, once decoded, read:
 
-**flag{my_name_is_jim_but_most_people_call_me_jim}**
+**clayFlag{my_name_is_jim_but_most_people_call_me_jim}**
 
 If someone finds this, keep riding. Lamarr ain’t done scheming yet, and there are whispers he’s taken 
 to the digital trails now.
